@@ -1,0 +1,7 @@
+
+train: ./FruitDataset_converted/images/train
+val: ./FruitDataset_converted/images/val
+test: ./FruitDataset_converted/images/test
+
+nc: 4
+names: ['Apple', 'Banana', 'Carrot', 'Orange']
